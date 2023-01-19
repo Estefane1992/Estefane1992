@@ -1,7 +1,7 @@
 ### Olá! eu sou a Estefane
 
 
-  ![Estefane1992's GitHub stats](https://github-readme-stats.vercel.app/api?username=estefane1992&show_icons=true&theme=radical)
+  
   
   
   <div> 
@@ -11,8 +11,7 @@
 </div>
 
 
-## Tecnologias Mais Utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estefane1992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  
 
 
