@@ -3,8 +3,7 @@
 
 ### Olá! eu sou a  Estefane
 
-![Estefane1992 GitHub stats] (https://github-readme-stats.vercel.app/api?username=Estefane1992&theme=dark&show_icons=true
-https://meu-site-45zh-8wo6iumhj-estefane1992.vercel.app/)
+![Estefane1992 GitHub stats] (https://meu-site-45zh-8wo6iumhj-estefane1992.vercel.app/)
 
   <div> 
   <a href="https://www.linkedin.com/in/estefane-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
